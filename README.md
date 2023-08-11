@@ -1,7 +1,8 @@
 # Aplicativo de Lista de Tarefas
 
 Este é um aplicativo básico de lista de tarefas desenvolvido usando React. Ele permite que você crie, visualize e gerencie suas tarefas de forma organizada.
-obs: Foi inicializado com [Create React App](https://github.com/facebook/create-react-app)
+ <br>
+<b>obs:</b> Foi inicializado com [Create React App](https://github.com/facebook/create-react-app)
 
 ## Como Usar
 
